@@ -1,5 +1,5 @@
-// Package test is a test package for Godoc
-package test
+// Package test_godoc is a test package for Godoc
+package test_godoc
 
 // Test
 type Test struct{}
